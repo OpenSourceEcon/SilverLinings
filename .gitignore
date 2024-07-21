@@ -37,14 +37,3 @@ envs/
 *.ipynb_checkpoints*
 */__pycache__/*
 */~$*
-*/cc-est2022-agesex-all.csv
-*/cc-est2022-agesex.pdf
-*/cc-est2022-all.csv
-*/cc-est2022-alldata.pdf
-*/co-est2022-pop.xlsx
-*/Education.xlsx
-*/kff_avg_medicaid_payout.csv
-*/PopulationEstimates.xlsx
-*/PovertyEstimates.xlsx
-*/Unemployment.xlsx
-
