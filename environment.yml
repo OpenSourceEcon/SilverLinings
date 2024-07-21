@@ -1,0 +1,14 @@
+name: silverlinings-dev
+channels:
+- conda-forge
+dependencies:
+- python>=3.11,<3.12
+- ipython
+- jupyter
+- numpy
+- pandas>=1.4.4
+- bokeh>=3.4.0
+- matplotlib
+- pip
+- pip:
+  - ogusa
