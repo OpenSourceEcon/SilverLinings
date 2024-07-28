@@ -1,0 +1,159 @@
+{
+    "Simulation directory": "SilverLiningsSimulations_Latest",
+    "scenario_params": {
+        "Section 1, 1st Gen": {
+            "directory": "section1_1gen",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 0.09,
+            "prod_effect": 0.08,
+            "fert_effect": 0.0,
+            "min_age_effect_felt": 65,
+            "initial_effect_period": 5,
+            "final_effect_period": 10
+        },
+        "Section 1, 2nd Gen": {
+            "directory": "section1_2gen",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 0.41,
+            "prod_effect": 0.72,
+            "fert_effect": 0.0,
+            "min_age_effect_felt": 40,
+            "initial_effect_period": 10,
+            "final_effect_period": 20
+        },
+        "Section 1, 2nd Gen + OOC": {
+            "directory": "section1_2gen_ooc",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 0.41,
+            "prod_effect": 0.72,
+            "fert_effect": 0.0,
+            "min_age_effect_felt": 40,
+            "initial_effect_period": 8,
+            "final_effect_period": 16
+        },
+        "Section 2, Brainspan": {
+            "directory": "section2",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 0.2,
+            "prod_effect": 0.7,
+            "fert_effect": 0.0,
+            "min_age_effect_felt": 40,
+            "initial_effect_period": 10,
+            "final_effect_period": 20
+        },
+        "Section 3, Reproductive Healthspan": {
+            "directory": "section3",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 0.01,
+            "prod_effect": 0.02,
+            "fert_effect": 0.5,
+            "min_age_effect_felt": 40,
+            "initial_effect_period": 10,
+            "final_effect_period": 20
+        },
+        "Section 4, Healthspan": {
+            "directory": "section4",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 0.44,
+            "prod_effect": 0.0,
+            "fert_effect": 0.0,
+            "min_age_effect_felt": 40,
+            "initial_effect_period": 10,
+            "final_effect_period": 20
+        },
+        "Section 5, Mortality only": {
+            "directory": "section5_mort",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 0.5,
+            "prod_effect": 0.0,
+            "fert_effect": 0.0,
+            "min_age_effect_felt": 40,
+            "initial_effect_period": 10,
+            "final_effect_period": 20
+        },
+        "Section 5, Productivity only": {
+            "directory": "section5_prod",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 0.0,
+            "prod_effect": 0.5,
+            "fert_effect": 0.0,
+            "min_age_effect_felt": 40,
+            "initial_effect_period": 10,
+            "final_effect_period": 20
+        },
+        "Section 5, Fertility only": {
+            "directory": "section5_fert",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 0.0,
+            "prod_effect": 0.0,
+            "fert_effect": 0.5,
+            "min_age_effect_felt": 40,
+            "initial_effect_period": 10,
+            "final_effect_period": 20
+        },
+        "Section 5, All": {
+            "directory": "section5_all",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 0.5,
+            "prod_effect": 0.5,
+            "fert_effect": 0.2,
+            "min_age_effect_felt": 40,
+            "initial_effect_period": 10,
+            "final_effect_period": 20
+        },
+        "Section 5, Moonshot Mortality": {
+            "directory": "moonshot_section5_mort",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 2.5,
+            "prod_effect": 0.0,
+            "fert_effect": 0.0,
+            "min_age_effect_felt": 40,
+            "initial_effect_period": 10,
+            "final_effect_period": 20
+        },
+        "Section 5, Moonshot Productivity": {
+            "directory": "moonshot_section5_prod",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 0.0,
+            "prod_effect": 2.5,
+            "fert_effect": 0.0,
+            "min_age_effect_felt": 40,
+            "initial_effect_period": 10,
+            "final_effect_period": 20
+        },
+        "Section 5, Moonshot Fertility": {
+            "directory": "moonshot_section5_fert",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 0.0,
+            "prod_effect": 0.0,
+            "fert_effect": 0.6,
+            "min_age_effect_felt": 40,
+            "initial_effect_period": 10,
+            "final_effect_period": 20
+        },
+        "Section 5, Moonshot All": {
+            "directory": "moonshot_section5_all",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 2.5,
+            "prod_effect": 2.5,
+            "fert_effect": 0.6,
+            "min_age_effect_felt": 40,
+            "initial_effect_period": 10,
+            "final_effect_period": 20
+        }
+    }
+}
