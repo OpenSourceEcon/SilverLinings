@@ -2,13 +2,16 @@ name: silverlinings-dev
 channels:
 - conda-forge
 dependencies:
-- python>=3.11,<3.12
-- ipython
-- jupyter
+- python>=3.11,<3.13
 - numpy
 - pandas>=1.4.4
+- ipython
+- setuptools
+- jupyter
+- ipykernel
 - bokeh>=3.4.0
 - matplotlib
 - pip
 - pip:
   - ogusa
+  - ogcore
