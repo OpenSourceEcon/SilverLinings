@@ -154,6 +154,127 @@
             "min_age_effect_felt": 40,
             "initial_effect_period": 10,
             "final_effect_period": 20
+        },
+        "Section X, 2.3 Exercise": {
+            "directory": "excercise_2.3",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 2.52,
+            "prod_effect": 0.0,
+            "fert_effect": 0.0,
+            "min_age_effect_felt": 40,
+            "initial_effect_period": 10,
+            "final_effect_period": 20
+        },
+        "Section X, 1% mortality": {
+            "directory": "one_percent_mortality",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 0.13,
+            "prod_effect": 0.0,
+            "fert_effect": 0.0,
+            "min_age_effect_felt": 40,
+            "initial_effect_period": 10,
+            "final_effect_period": 20
+        },
+        "Section X, 1% productivity": {
+            "directory": "one_percent_productivity",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 0.0,
+            "prod_effect": 0.47,
+            "fert_effect": 0.0,
+            "min_age_effect_felt": 40,
+            "initial_effect_period": 10,
+            "final_effect_period": 20
+        },
+        "Section X, 1% fertility": {
+            "directory": "one_percent_fertility",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 0.0,
+            "prod_effect": 0.0,
+            "fert_effect": 0.54,
+            "min_age_effect_felt": 40,
+            "initial_effect_period": 10,
+            "final_effect_period": 20
+        },
+        "Section X, 1% all": {
+            "directory": "one_percent_all",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 0.13,
+            "prod_effect": 0.47,
+            "fert_effect": 0.54,
+            "min_age_effect_felt": 40,
+            "initial_effect_period": 10,
+            "final_effect_period": 20
+        },
+        "Section 1, 1st Gen 18.5pct": {
+            "directory": "section1_1gen_18pt5pct",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 0.15,
+            "prod_effect": 0.13,
+            "fert_effect": 0.0,
+            "min_age_effect_felt": 65,
+            "initial_effect_period": 5,
+            "final_effect_period": 10
+        },
+        "Section 5, 1 Year All, 100% adhere": {
+            "directory": "section5_1yr_100pct",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 1.0,
+            "prod_effect": 1.0,
+            "fert_effect": 0.5,
+            "min_age_effect_felt": 40,
+            "initial_effect_period": 10,
+            "final_effect_period": 20
+        },
+        "Section 5, 1 Year All, 65+": {
+            "directory": "section5_1yr_65plus",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 0.5,
+            "prod_effect": 0.5,
+            "fert_effect": 0.5,
+            "min_age_effect_felt": 65,
+            "initial_effect_period": 10,
+            "final_effect_period": 20
+        },
+        "Section 5, 1 Moonshot All, 100pct": {
+            "directory": "section5_MoonShot_all_100pct",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 5.0,
+            "prod_effect": 5.0,
+            "fert_effect": 0.6,
+            "min_age_effect_felt": 40,
+            "initial_effect_period": 10,
+            "final_effect_period": 20
+        },
+        "Section 5, 1 Moonshot All, 65plus": {
+            "directory": "section5_MoonShot_all_65plus",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 2.5,
+            "prod_effect": 2.5,
+            "fert_effect": 0.6,
+            "min_age_effect_felt": 65,
+            "initial_effect_period": 10,
+            "final_effect_period": 20
+        },
+        "Section 2, Brain Health, updated": {
+            "directory": "brain_health_updated",
+            "rd_invest": 0.0,
+            "num_years_invest": 10,
+            "mort_effect": 0.1,
+            "prod_effect": 0.6,
+            "fert_effect": 0.0,
+            "min_age_effect_felt": 40,
+            "initial_effect_period": 10,
+            "final_effect_period": 20
         }
     }
 }
