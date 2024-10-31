@@ -32,6 +32,7 @@ htmlcov/*
 *.DS_Store*
 *puf.csv
 */OUTPUT/*
+*/og_simulations/*
 envs/
 *.egg-info/
 *.ipynb_checkpoints*
